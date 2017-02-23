@@ -1,0 +1,1 @@
+{"version":3,"file":"time.component.js","sourceRoot":"","sources":["time.component.ts"],"names":[],"mappings":";;;;;;;;AAAA,sCAA0C;AAW1C,IAAa,aAAa;IAT1B;QAS6B,SAAI,GAAG,SAAS,CAAC;IAAC,CAAC;IAAD,oBAAC;AAAD,CAAC,AAAhD,IAAgD;AAAnC,aAAa;IATzB,gBAAS,CAAC;QACP,QAAQ,EAAE,MAAM;QAChB,QAAQ,EAAE,mGAIT;QACD,SAAS,EAAE,CAAE,oBAAoB,CAAE;KACtC,CAAC;GACW,aAAa,CAAsB;AAAnC,sCAAa"}

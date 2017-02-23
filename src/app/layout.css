@@ -1,0 +1,24 @@
+#cont_people {
+    width: 30%;
+    float: left;
+}
+
+#cont_dates {
+    width: 30%;
+    float: left;
+
+}
+
+#cont_time {
+    width: 30%;
+    float: left;
+
+}
+
+#cont_dates, #cont_time {
+    border-left: solid black 1px;
+}
+
+#cont_people, #cont_dates, #cont_time {
+    height: 100%;
+}
